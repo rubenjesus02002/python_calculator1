@@ -1,4 +1,4 @@
-# **Project #1 – Python Average Calculator**
+# **Course Project #1 – Python Average Calculator**
 
 This project's main focus is to build a Python program to practice core programming concepts and gain hands‑on experience with Git and GitHub workflows. I have decided to tackle this project independently to strengthen my skills in functions, loops, and unit testing. However; I recreated this projected with a team, to solidify my ability to collaborate using Git Version Control. You can find the callaborative version of this project in my repositories, named "python_calculator2"!
 
