@@ -1,6 +1,6 @@
 # **Project #1 – Python Average Calculator**
 
-A Python program built to practice core programming concepts and gain hands‑on experience with Git and GitHub workflows. Developed independently to strengthen skills in functions, loops, and unit testing while maintaining clean code structure and documentation.
+This project's main focus is to build a Python program to practice core programming concepts and gain hands‑on experience with Git and GitHub workflows. I have decided to tackle this project independently to strengthen my skills in functions, loops, and unit testing. However; I recreated this projected with a team, to solidify my ability to collaborate using Git Version Control. You can find the callaborative version of this project in my repositories, named "python_calculator2"!
 
 ## **Features**
 Prompts the user for three integers (positive, negative, or zero)
@@ -20,7 +20,6 @@ Testing: pytest or Python unittest
 
 Version Control: Git + GitHub
 
-
 ## **How to Run:**
 1. Clone the repository
 2. Run the program:
@@ -31,8 +30,8 @@ Version Control: Git + GitHub
    python3 -m pytest -v (Run all tests in verbose mode - 4 total tests) 
 
 ## **Lessons Learned:**
-- Practiced writing clean, modular functions with comments and docstrings.
+- Implemented Python logic and learned how to effectively use unit tests. 
 
 - Gained hands‑on experience with Git (commits, branches, pushing to GitHub).
 
-- Learned how to write and organize unit tests.
+- Built an understanding of the project workflow using Git and how to handle merge errors. 
